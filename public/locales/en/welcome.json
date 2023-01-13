@@ -1,5 +1,6 @@
 {
   "title": "GitLoc example",
   "subtitle": "You’ve successfully created a project with {vite} + {vue}. ",
-  "test": "translation test"
+  "test": "translation test",
+  "test2": "translation test 2"
 }
