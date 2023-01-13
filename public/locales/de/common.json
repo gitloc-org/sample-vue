@@ -1,0 +1,39 @@
+{
+  "documentation": {
+    "title": "Dokumentation",
+    "description": "Vues {1} bietet Ihnen alle Informationen, die Sie für den Einstieg benötigen.",
+    "1": "Amtliche Dokumentation"
+  },
+  "tooling": {
+    "title": "Werkzeuge",
+    "description": "Dieses Projekt wird bereitgestellt und gebündelt mit {1}. Das empfohlene IDE-Setup ist {2} + {3}. Wenn Sie Ihre Komponenten und Webseiten testen müssen, sehen Sie sich {4} und {5} an. {br}Weitere Anleitungen finden Sie in {6}.",
+    "1": "Vite",
+    "2": "VSCode",
+    "3": "Volar",
+    "4": "Cypress",
+    "5": "Cypress-Komponententest",
+    "6": "README.md"
+  },
+  "ecosystem": {
+    "title": "Ökosystem",
+    "description": "Holen Sie sich offizielle Tools und Bibliotheken für Ihr Projekt: {1}, {2}, {3} und {4}. Wenn Sie weitere Ressourcen benötigen, empfehlen wir Ihnen, {5} einen Besuch abzustatten.",
+    "1": "Pinia",
+    "2": "Vue-Router",
+    "3": "Vue-Test-Dienstprogramme",
+    "4": "Vue-Entwicklungstools",
+    "5": "Awesome Vue"
+  },
+  "community": {
+    "title": "Gemeinschaft",
+    "description": "Stehen Sie fest? Stellen Sie Ihre Frage auf {1}, unserem offiziellen Discord-Server, oder auf {2}. Sie sollten auch {3} abonnieren und dem offiziellen Twitter-Konto {4} folgen, um die neuesten Nachrichten in der Vue-Welt zu erhalten .",
+    "1": "Vue-Land",
+    "2": "StackOverflow",
+    "3": "unsere Mailingliste",
+    "4": "@vuejs"
+  },
+  "supportVue": {
+    "title": "Vue unterstützen",
+    "description": "Als unabhängiges Projekt ist Vue für seine Nachhaltigkeit auf die Unterstützung der Community angewiesen. Sie können uns mit {1} helfen.",
+    "1": "Sponsor werden"
+  }
+}

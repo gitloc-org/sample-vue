@@ -1,0 +1,39 @@
+{
+  "documentation": {
+    "title": "Documentation",
+    "description": "Vue’s {1} provides you with all information you need to get started.",
+    "1": "official documentation"
+  },
+  "tooling": {
+    "title": "Tooling",
+    "description": "This project is served and bundled with {1}. The recommended IDE setup is {2} + {3}. If you need to test your components and web pages, check out {4} and {5}.{br}More instructions are available in {6}.",
+    "1": "Vite",
+    "2": "VSCode",
+    "3": "Volar",
+    "4": "Cypress",
+    "5": "Cypress Component Testing",
+    "6": "README.md"
+  },
+  "ecosystem": {
+    "title": "Ecosystem",
+    "description": "Get official tools and libraries for your project: {1}, {2}, {3}, and {4}. If you need more resources, we suggest paying {5} a visit.",
+    "1": "Pinia",
+    "2": "Vue Router",
+    "3": "Vue Test Utils",
+    "4": "Vue Dev Tools",
+    "5": "Awesome Vue"
+  },
+  "community": {
+    "title": "Community",
+    "description": "Got stuck? Ask your question on {1}, our official Discord server, or {2}. You should also subscribe to {3} and follow the official {4} twitter account for latest news in the Vue world.",
+    "1": "Vue Land",
+    "2": "StackOverflow",
+    "3": "our mailing list",
+    "4": "@vuejs"
+  },
+  "supportVue": {
+    "title": "Support Vue",
+    "description": "As an independent project, Vue relies on community backing for its sustainability. You can help us by {1}.",
+    "1": "becoming a sponsor"
+  }
+}
